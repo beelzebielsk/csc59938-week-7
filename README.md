@@ -18,7 +18,7 @@ Time spent: **30** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [ ] GIF Walkthrough: ![walkthrough](xss-1.gif)
+  - [ ] GIF Walkthrough: ![walkthrough](xss-1/xss-1.gif)
   - [ ] Steps to recreate: 
     - Go to WP site.
     - Create a comment on a post (if you have not done so already).
@@ -42,7 +42,7 @@ Time spent: **30** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: ![walkthrough](xss-2.gif)
+  - [ ] GIF Walkthrough: ![walkthrough](xss-2/xss-2.gif)
   - [ ] Steps to recreate: 
     - Create an account on a WP site.
     - Get the ability to create posts on that site. This means getting
@@ -78,7 +78,7 @@ Time spent: **30** hours spent in total
     - Vulnerability types: DDOS
     - Tested in version: 4.2
     - Fixed in version: 4.5
-  - [ ] GIF Walkthrough: ![walkthrough](ddos-1.gif)
+  - [ ] GIF Walkthrough: ![walkthrough](ddos-1/ddos-1.gif)
   - [ ] Steps to recreate: 
     - Create an account on a WordPress site.
     - Fill out the parameters of `ddos-1/ddos-script.sh` (I will refer
